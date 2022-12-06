@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  outline: 2px solid #000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgb(154,192,235);
+  background: linear-gradient(90deg, rgba(154,192,235,1) 15%, rgba(217,233,251,1) 50%, rgba(154,192,235,1) 85%);
+  height: 850px;
+  width: 800px;
+  
+}
+
+
+
